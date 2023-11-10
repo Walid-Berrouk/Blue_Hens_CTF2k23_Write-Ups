@@ -1,0 +1,1 @@
+readable_chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ#$?@[\]^_`}"
